@@ -1,0 +1,27 @@
+{
+  "sizeCol": "3",
+  "column1": "name:varchar",
+  "Row0": [
+    "1",
+    "value",
+    "1992-8-7"
+  ],
+  "column0": "id:int",
+  "Row1": [
+    "1",
+    "value2",
+    "1792-8-7"
+  ],
+  "sizeRow": "4",
+  "column2": "birthday:date",
+  "Row2": [
+    "1",
+    "value",
+    "1992-8-7"
+  ],
+  "Row3": [
+    "1",
+    "value2",
+    "1792-8-7"
+  ]
+}

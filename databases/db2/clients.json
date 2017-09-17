@@ -1,0 +1,20 @@
+{
+  "sizeCol": "4",
+  "column1": "name:varchar",
+  "Row0": [
+    "-12",
+    "ahmed",
+    "-2.5",
+    "1996-12-13"
+  ],
+  "column0": "id:int",
+  "Row1": [
+    "-4",
+    "moahmed",
+    "-03",
+    "1996-12-20"
+  ],
+  "sizeRow": "2",
+  "column3": "date:date",
+  "column2": "avg:float"
+}

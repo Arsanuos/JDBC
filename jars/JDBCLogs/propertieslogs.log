@@ -1,0 +1,11 @@
+2016-12-17 21:06:57.763 [INFO ] DriverImp:77 - success in creating connection
+2016-12-17 21:08:15.254 [INFO ] DriverImp:77 - success in creating connection
+2016-12-17 21:08:21.198 [INFO ] StatmentImp:107 - create database xxx; executed successfully.
+2016-12-17 21:10:18.438 [INFO ] DriverImp:77 - success in creating connection
+2016-12-17 21:10:29.255 [INFO ] StatmentImp:107 - create database df; executed successfully.
+2016-12-17 21:12:28.173 [INFO ] DriverImp:77 - success in creating connection
+2016-12-17 21:12:33.213 [INFO ] StatmentImp:107 - create database ggldk executed successfully.
+2016-12-17 21:14:24.923 [INFO ] DriverImp:77 - success in creating connection
+2016-12-17 21:14:34.089 [INFO ] StatmentImp:107 - create database test; executed successfully.
+2016-12-17 21:15:20.529 [INFO ] DriverImp:77 - success in creating connection
+2016-12-17 21:15:29.902 [INFO ] StatmentImp:107 - create database test5; executed successfully.
